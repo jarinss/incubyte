@@ -2,7 +2,7 @@
 
 prerequisites:
 1)aws EC2 instance
-2)centos 
+2)docker
 4)github repository
 
 steps:
